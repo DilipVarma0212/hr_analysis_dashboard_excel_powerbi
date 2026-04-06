@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# HR Analysis Dashboard
 
 *To help an organisation to improve employees performance and enhance retention (reduce attrition) by creating dashboard.*
 
