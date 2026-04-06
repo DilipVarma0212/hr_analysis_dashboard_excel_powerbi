@@ -24,7 +24,7 @@
 
 ### Overview
 
-This project focuses on analyzing HR data to **improve employee performance and reduce attrition.**
+This project focuses on analyzing HR data to improve employee performance and reduce attrition.
 An interactive dashboard was created to help organizations identify key factors affecting employee turnover and make data-driven decisions.
 
 ---
