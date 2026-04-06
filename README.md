@@ -2,6 +2,8 @@
 
 *To help an organisation to improve employees performance and enhance retention (reduce attrition) by creating dashboard.*
 
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -18,21 +20,26 @@
 - [Learning](#learning)
 - [Author](#author)
 
+---
+
 ### Overview
 
 This project focuses on analyzing HR data to **improve employee performance and reduce attrition.**
 An interactive dashboard was created to help organizations identify key factors affecting employee turnover and make data-driven decisions.
 
+---
 
 ### Business Problem
 
 The organization is facing a high attrition rate and lacks a data-driven approach to identify the key factors influencing employee turnover. The goal is to analyze HR data to uncover actionable insights that can help improve employee retention and optimize workforce management.
 
+---
 
 ### Data Source
 
 The primary dataset used for this analysis is the "hr_analysis.csv" file, containing detailed information about each employee in the company.
 
+---
 
 ### Tools
 
@@ -42,6 +49,8 @@ The primary dataset used for this analysis is the "hr_analysis.csv" file, contai
 - Data Visualization Techniques
 - GitHub
 
+---
+
 ### Data Cleaning Process
 
 1. Ensured data accuracy for analysis
@@ -49,6 +58,7 @@ The primary dataset used for this analysis is the "hr_analysis.csv" file, contai
 3. Fixed inconsistent and incorrect data
 4. Applied filters and slicers for better user experience
 
+---
 
 ### Business Questions
 
@@ -56,6 +66,8 @@ The primary dataset used for this analysis is the "hr_analysis.csv" file, contai
 - What is the attrition count and rate?
 - What is the average age, salary, and tenure?
 - How does attrition vary by Education, Age, Salary, Job Role, Gender, & Years at Company?
+
+---
 
  ### Results
 
@@ -68,10 +80,13 @@ The primary dataset used for this analysis is the "hr_analysis.csv" file, contai
 - Majority employees belong to Life Sciences background.
 - Male employees have higher attrition.
 
+---
+
 ### Dashboard
   
 <img width="1366" height="705" alt="HR_AnalysisDashboardImage" src="https://github.com/user-attachments/assets/4cd3f826-8b3d-420b-8a67-5417560becb2" />
 
+---
 
 ### Recommendations
 
@@ -81,12 +96,16 @@ The primary dataset used for this analysis is the "hr_analysis.csv" file, contai
 - Employee Engagement for Life Sciences Background
 - Strengthen Employee Retention Programs
 
+---
+
 ### Outcome
 
 - Helps HR identify high-risk employees
 - Supports better retention strategies
 - Improves workforce planning
 - Enables data-driven HR decisions
+
+---
 
 ### How to use
 
@@ -96,11 +115,14 @@ The primary dataset used for this analysis is the "hr_analysis.csv" file, contai
 - Apply Filters for Insights
 - Understand Key Visuals
 
+---
 ### Learning
 
 - Importance of Data Cleaning & Preparation
 - Turning Data into Business Insights
 - Building Interactive Dashboards for Decision-Making
+
+---
 
 ### Author
 
